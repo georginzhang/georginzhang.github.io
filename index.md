@@ -1,10 +1,3 @@
----
-layout: post
-title: 天意人间舫
----
-
-## **[晚晴幽草轩](http://www.jeffjade.com)**,**[天意人间舫](nicejade.github.io)**
-
 <style type="text/css">
 .index-poem{
     display: -webkit-box; display: -moz-box; display: -webkit-flex; display: flex;
@@ -15,22 +8,6 @@ title: 天意人间舫
     color: #F2F2F2;
 }
 </style>
-
-<pre>
-<div class="index-poem">
-<pre>
-深居俯夹城，春去夏犹清。
-<strong>天意怜幽草，人间重晚晴。</strong>
-并添高阁迥，微注小窗明。
-越鸟巢干后，归飞体更轻。
-        ———李商隐《晚晴》
-</pre>
-</div>
-</pre>
-
-对于此博客，视其为辅助`晚晴幽草轩`の华丽存在；至于命其名为`天意人间舫`，这有在个人主博 **[晚晴幽草轩](http://www.jeffjade.com)** 中有专写一篇以述之。
-
-<img src="http://nicejade.github.io/assets/images/jeffjade-nicejade.jpg" alt="晚晴幽草轩 天意人间舫">
 
 ## 对博客的理解
 

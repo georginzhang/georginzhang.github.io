@@ -8,7 +8,7 @@
     color: #F2F2F2;
 }
 .test{
-    color:red;
+    color:white;
 }
 </style>
 

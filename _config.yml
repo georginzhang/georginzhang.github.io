@@ -8,30 +8,30 @@ kramdown:
 
 # 作者信息
 author:
-  name: 晚晴幽草
-  email: jeffjade@163.com
-  link: http://www.jeffjade.com
-  weibo: http://weibo.com/3235949794
-  github: http://github.com/nicejade
+  name: 张伟
+  email: georginzhang@163.com
+  link: 
+  weibo: 
+  github: http://github.com/georginzhang
 
 # 站点信息
-title: 天意人间舫
-description: 个人博客(Jekyll);整理、记载关于工具/资源/生活/技术/读书/影音等经验和思考;
-url: http://nicejade.github.io
+title:张伟的博客
+description: 个人博客(georginzhang);整理、记载关于工具/资源/生活/技术/读书/影音等经验和思考;
+url: http://georginzhang.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://7xoosr.com1.z0.glb.clouddn.com/nicejadeIcon.jpg
-favicon: http://www.jeffjade.com/img/xuan.ico
+avatar: http://oci3gtafy.bkt.clouddn.com/image/icon.jpg
+favicon: http://oci3gtafy.bkt.clouddn.com/image/icon.ico
 
 # google analytics 设置
 ga:
   id: UA-86109050-1
-  url: nicejade.github.io
+  url: georginzhang.github.io
 
 # disqus 设置
 disqus:
-  shortname: yunjeffblog
+  shortname: georginzhang
 
 #rake configuration on 2016-03-01
 post:
@@ -47,4 +47,4 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/Git/nicejade.github.com/
+  destination: ~/Git/georginzhang.github.com/
